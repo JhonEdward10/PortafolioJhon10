@@ -55,12 +55,26 @@
         justify-content: center;
     }
 
-    .mySkills img {
-        max-width: 30%;
-        position: absolute;
-        left: 85%;
-        top: -40px;
+    .mySkills{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
         overflow: hidden;
+        color:#ADADAD;
+    }
+    
+    .mySkills h2{
+        margin-top: 15%;
+        font-size: 1.6rem;
+        color: #FFFFFF;
+        margin-left: 6px;
+    
+    }
+    
+    .mySkills img{
+        max-width: 30%;
+        margin-right: -12%;
     }
 
     .lineSepared{
@@ -135,14 +149,27 @@
         justify-content: center;
     }
 
-    .mySkills img {
-        max-width: 30%;
-        position: absolute;
-        left: 85%;
-        top: -40px;
+    .mySkills{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
         overflow: hidden;
+        color:#ADADAD;
     }
-
+    
+    .mySkills h2{
+        margin-top: 15%;
+        font-size: 1.6rem;
+        color: #FFFFFF;
+        margin-left: 6px;
+    
+    }
+    
+    .mySkills img{
+        max-width: 30%;
+        margin-right: -12%;
+    }
     .lineSepared{
         color: #FFFFFF;
         margin-top: -35px;
@@ -238,12 +265,26 @@
         justify-content: center;
     }
 
-    .mySkills img {
-        max-width: 30%;
-        position: absolute;
-        left: 85%;
-        top: -40px;
+    .mySkills{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
         overflow: hidden;
+        color:#ADADAD;
+    }
+    
+    .mySkills h2{
+        margin-top: 15%;
+        font-size: 1.6rem;
+        color: #FFFFFF;
+        margin-left: 6px;
+    
+    }
+    
+    .mySkills img{
+        max-width: 30%;
+        margin-right: -6%;
     }
 
     .lineSepared{
@@ -340,12 +381,26 @@
         justify-content: center;
     }
 
-    .mySkills img {
-        max-width: 30%;
-        position: absolute;
-        left: 92%;
-        top: -40px;
+    .mySkills{
+        width: 100%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
         overflow: hidden;
+        color:#ADADAD;
+    }
+    
+    .mySkills h2{
+        margin-top: 15%;
+        font-size: 1.6rem;
+        color: #FFFFFF;
+        margin-left: 6px;
+    
+    }
+    
+    .mySkills img{
+        max-width: 30%;
+        margin-right: -12%;
     }
 
     .lineSepared{
