@@ -35,7 +35,7 @@
     .about-subtitle h2{
         color: #FFFFFF;
         text-align: center;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-left: 5%;
     }
 
@@ -50,10 +50,11 @@
         color: #FFFFFF;
         display: flex;
         flex-direction: row;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-left: 0%;
         justify-content: center;
     }
+    
 
     .mySkills{
         width: 100%;
@@ -129,7 +130,7 @@
     .about-subtitle h2{
         color: #FFFFFF;
         text-align: center;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-left: 5%;
     }
 
@@ -144,7 +145,7 @@
         color: #FFFFFF;
         display: flex;
         flex-direction: row;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-left: 0%;
         justify-content: center;
     }
@@ -156,6 +157,13 @@
         justify-content: space-between;
         overflow: hidden;
         color:#ADADAD;
+    }
+
+    .myPortfolio h2{
+        color: #FFFFFF;
+        font-size: 1.6rem;
+        margin-top: 15%;
+        margin-left: 5%;
     }
     
     .mySkills h2{
@@ -245,7 +253,7 @@
     .about-subtitle h2{
         color: #FFFFFF;
         text-align: center;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-left: 5%;
     }
 
@@ -260,7 +268,7 @@
         color: #FFFFFF;
         display: flex;
         flex-direction: row;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-left: 0%;
         justify-content: center;
     }
@@ -285,6 +293,13 @@
     .mySkills img{
         max-width: 30%;
         margin-right: -6%;
+    }
+
+    .myPortfolio h2{
+        color: #FFFFFF;
+        font-size: 1.6rem;
+        margin-top: 15%;
+        margin-left: 5%;
     }
 
     .lineSepared{
@@ -361,7 +376,7 @@
     .about-subtitle h2{
         color: #FFFFFF;
         text-align: center;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-left: 5%;
     }
 
@@ -376,7 +391,7 @@
         color: #FFFFFF;
         display: flex;
         flex-direction: row;
-        font-size: 1.3rem;
+        font-size: 1.6rem;
         margin-left: 0%;
         justify-content: center;
     }
@@ -401,6 +416,13 @@
     .mySkills img{
         max-width: 30%;
         margin-right: -6%;
+    }
+
+    .myPortfolio h2{
+        color: #FFFFFF;
+        font-size: 1.6rem;
+        margin-top: 15%;
+        margin-left: 5%;
     }
 
     .lineSepared{

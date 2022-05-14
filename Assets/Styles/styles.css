@@ -13,6 +13,7 @@ body{
     justify-content: end;
     width: 100%;
     padding-top: 5%;
+    margin-left: -10%;
 }
 
 .hidden{
@@ -153,7 +154,7 @@ nav a{
 .about-subtitle h2{
     color: #FFFFFF;
     text-align: left;
-    font-size: 1.3rem;
+    font-size: 1.6rem;
     margin-left: 5%;
 }
 
@@ -227,15 +228,13 @@ nav a{
     flex-direction: column;
     justify-content: center;
     margin-top: 10%;
-    margin-left: 5%;
 }
 
 .experience h2{
     color: #FFFFFF;
     display: flex;
     flex-direction: row;
-    font-size: 1.3rem;
-    margin-left: 5%;
+    font-size: 1.6rem;
 
 }
 
@@ -280,6 +279,7 @@ nav a{
 
 .myPortfolio h2{
     color: #FFFFFF;
+    font-size: 1.6rem;
     margin-top: 15%;
     margin-left: 5%;
 }
